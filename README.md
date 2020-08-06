@@ -2,8 +2,8 @@
 
 ## I build neat stuff and ocasionally save your code. 🤖
 - 👨‍💻 I’m currently working on a all types of random projects, especially ones involving Discord.JS
-- 📚 I’m currently learning C++ and HTML!
-- 🤔 I currently know JS, Java and, Pythom
+- 📚 I’m currently learning C++ and HTML
+- 🤔 I currently know JS, Java and, Python
 - ☕ Addicted to coffee.
 
 <br />
@@ -36,7 +36,7 @@
 
 <br />
 
-### Latest Projects -
+### 🚧Latest Projects🚧 -
 
 <!-- BLOG-POST-LIST:START -->
 - [R3MINDER; Will You Remember? (Discord Bot)](https://i.gyazo.com/3e7ce89c6ef934e841575652177d5ac4.png)
