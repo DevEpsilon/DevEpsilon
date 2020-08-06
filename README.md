@@ -1,4 +1,4 @@
-### Hey, I'm Epsilon - or also known as EPSI 
+### Hey, I'm Epsilon - also known as EPSI 
 
 ## I build neat stuff and ocasionally save your code. 🤖
 - 👨‍💻 I’m currently working on a all types of random projects, especially ones involving Discord.JS
