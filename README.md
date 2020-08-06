@@ -36,6 +36,7 @@
 
 
 ### Latest Projects -
+
 <!-- BLOG-POST-LIST:START -->
 - [R3MINDER; Will You Remember? (Discord Bot)](https://i.gyazo.com/3e7ce89c6ef934e841575652177d5ac4.png)
 - [EPSMUSIC; Music Redefined. (Discord Bot)](https://i.gyazo.com/984139eac047b40200324b44a7ee0708.png)
