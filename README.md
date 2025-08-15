@@ -1,10 +1,6 @@
-### Hey, I'm Epsilon - also known as EPSI 
+### I'm Epsilon
 
-## I build neat stuff and ocasionally save your code. 🤖
-- 👨‍💻 I’m currently working on a all types of random projects, especially ones involving Discord.JS
-- 📚 I’m currently learning C++ and HTML
-- 🤔 I currently know JS, Java and, Python
-- ☕ Addicted to coffee.
+## I try to build neat stuff and ocasionally save your code. 
 
 <br />
 
