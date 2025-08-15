@@ -26,26 +26,9 @@
 
 ---
 
-### Connect with me:
-
-[<img align="left" alt=" | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt=" | Github" width="22px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />][Github]
-[<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
-### 🚧Latest Projects🚧 -
-
-<!-- BLOG-POST-LIST:START -->
-- [R3MINDER; Will You Remember? (Discord Bot)](https://i.gyazo.com/3e7ce89c6ef934e841575652177d5ac4.png)
-- [EPSMUSIC; Music Redefined. (Discord Bot)](https://i.gyazo.com/984139eac047b40200324b44a7ee0708.png)
-- [GENESIS; Watching You Play! (Discord Bot)](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [epsSUGGEST; Suggesting A Better Future. (Discord Bot)](https://i.gyazo.com/55e9b52530d9180a1bae2f78bb5d4b39.png)
-<!-- BLOG-POST-LIST:END -->
-
----
 
 [youtube]: https://www.youtube.com/channel/UCggfOK6IfmHQjdqJr15EufA?view_as=subscriber
 [twitter]: blank:blank
